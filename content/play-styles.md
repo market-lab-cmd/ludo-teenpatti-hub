@@ -1,6 +1,6 @@
 # Ludo and Teen Patti Play Styles
 
-## Introduction
+## 🪶 Introduction
 
 Every player has habits that show up again and again. Some players prefer safety, some prefer pressure, and some drift between the two depending on mood rather than logic. Understanding play styles helps you read opponents, but it also helps you see your own default tendencies more honestly.
 
@@ -8,13 +8,13 @@ This page looks at play styles from a teaching perspective. The point is not to 
 
 ---
 
-## Play Styles Overview
+## 🖼️ Play Styles Overview
 
 ![Ludo and Teen Patti play styles illustration in a calm instructional environment](../assets/images/play-styles.png)
 
 ---
 
-## What Is a Play Style?
+## 🎯 What Is a Play Style?
 
 A play style is the pattern behind your choices when the position is unclear. Do you default to safety? Do you press small advantages aggressively? Do you avoid confrontation too often? Style is not just personality. It is behavior under uncertainty.
 
@@ -22,37 +22,37 @@ Good players know their natural style, but they are not trapped by it. They adju
 
 ---
 
-# 1. The Cautious Style
+# 🧠 1. The Cautious Style
 
 The cautious player values safety, structure, and lower-variance decisions. In Ludo, this player protects developed tokens carefully and avoids unnecessary races. In Teen Patti, this player prefers controlled spots and rarely continues without clear support.
 
 This style is strong because it prevents many self-inflicted losses. Its weakness is that it can miss profitable pressure points when the position clearly favors action.
 
-# 2. The Aggressive Style
+# 🧠 2. The Aggressive Style
 
 The aggressive player looks for initiative. In Ludo, that may mean forcing tempo and creating board pressure early. In Teen Patti, it may mean challenging weak signals and leaning into uncomfortable spots for others.
 
 Used well, aggression creates mistakes from opponents. Used poorly, it creates mistakes from you. The difference is whether the aggression grows from structure or from impatience.
 
-# 3. The Reactive Style
+# 🧠 3. The Reactive Style
 
 Reactive players let the game come to them. They respond well to clear threats or opportunities but sometimes fail to shape the game themselves. This style can feel safe because it avoids overextension, yet it often cedes control.
 
 Experienced players try not to stay purely reactive for long. Even in quieter positions, they look for ways to improve future choices rather than only answering current ones.
 
-# 4. The Balanced Style
+# 🧠 4. The Balanced Style
 
 Balanced players do not split everything evenly. They shift gears based on the position. They can play quietly when the board or table calls for caution and become forceful when the edge is real.
 
 This is usually the strongest long-term style because it responds to the game rather than to ego. It also takes the most self-awareness to maintain.
 
-# 5. Reading Opponent Styles
+# 🧠 5. Reading Opponent Styles
 
 Recognizing an opponent's style helps you predict their likely decisions. A cautious Ludo player may protect too early. An aggressive Teen Patti player may keep telling the same story even when conditions change. A reactive player may be easier to steer into awkward spots.
 
 The goal is not to stereotype too quickly. The goal is to gather patterns and update them as the game develops.
 
-# 6. Fixing Style-Based Leaks
+# 🧠 6. Fixing Style-Based Leaks
 
 The fastest way to improve is often not changing your entire style. It is correcting the leak your style creates most often. The cautious player needs to spot missed pressure windows. The aggressive player needs to stop manufacturing unnecessary danger. The reactive player needs to create more initiative.
 
@@ -60,7 +60,7 @@ Once you know your default shape, your review becomes much more useful.
 
 ---
 
-## Common Mistakes
+## ⚠️ Common Mistakes
 
 - Treating style as identity instead of as a flexible tool.
 - Copying an aggressive style without the judgment that supports it.
@@ -70,13 +70,13 @@ Once you know your default shape, your review becomes much more useful.
 
 ---
 
-## Summary
+## 🧾 Summary
 
 Ludo and Teen Patti play styles matter because your default habits show up most clearly when the game becomes uncertain. Learn what your natural style does well, where it starts to fail, and when the position calls for a gear shift. The best players have a style, but they are not ruled by it.
 
 ---
 
-## SEO Keywords
+## 🔍 SEO Keywords
 
 ludo and teen patti play styles
 cautious vs aggressive gameplay
