@@ -10,7 +10,7 @@ This page explains how experienced players balance risk in Ludo and Teen Patti. 
 
 ## 🖼️ Risk Balance Overview
 
-![Ludo and Teen Patti risk balance illustration with measured choices and analysis notes](../assets/images/risk-balance.png)
+![Ludo and Teen Patti risk balance illustration with measured choices and analysis notes](../assets/images/risk-balance.webp)
 
 ---
 

@@ -10,7 +10,7 @@ This page focuses on the errors experienced players notice most often when helpi
 
 ## 🖼️ Common Mistakes Overview
 
-![Ludo and Teen Patti common mistakes illustration with notes and a teaching setup](../assets/images/common-mistakes.png)
+![Ludo and Teen Patti common mistakes illustration with notes and a teaching setup](../assets/images/common-mistakes.webp)
 
 ---
 

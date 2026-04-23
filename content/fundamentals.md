@@ -10,7 +10,7 @@ This page explains the basic habits experienced players rely on. None of them ar
 
 ## 🖼️ Fundamentals Overview
 
-![Ludo and Teen Patti fundamentals illustration in a calm educational workspace](../assets/images/fundamentals.png)
+![Ludo and Teen Patti fundamentals illustration in a calm educational workspace](../assets/images/fundamentals.webp)
 
 ---
 

@@ -10,7 +10,7 @@ The key here is maturity. Advanced play is rarely about showing off. It is about
 
 ## 🖼️ Advanced Concepts Overview
 
-![Ludo and Teen Patti advanced concepts illustration with diagrams and calm study materials](../assets/images/advanced-concepts.png)
+![Ludo and Teen Patti advanced concepts illustration with diagrams and calm study materials](../assets/images/advanced-concepts.webp)
 
 ---
 

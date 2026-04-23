@@ -10,7 +10,7 @@ This page explains how experienced players make decisions in Ludo and Teen Patti
 
 ## 🖼️ Decision Making Overview
 
-![Ludo and Teen Patti decision making illustration with notes, tokens, and cards in a study setting](../assets/images/decision-making.png)
+![Ludo and Teen Patti decision making illustration with notes, tokens, and cards in a study setting](../assets/images/decision-making.webp)
 
 ---
 

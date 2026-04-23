@@ -10,7 +10,7 @@ This page explains how awareness works in Ludo and Teen Patti, what experienced 
 
 ## 🖼️ Game Awareness Overview
 
-![Ludo and Teen Patti game awareness illustration with observation notes and strategy diagrams](../assets/images/game-awareness.png)
+![Ludo and Teen Patti game awareness illustration with observation notes and strategy diagrams](../assets/images/game-awareness.webp)
 
 ---
 

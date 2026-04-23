@@ -10,7 +10,7 @@ This page explains how strategic thinking works in Ludo and Teen Patti, why it d
 
 ## 🖼️ Strategic Thinking Overview
 
-![Ludo and Teen Patti strategic thinking illustration with planning notes and calm analysis](../assets/images/strategic-thinking.png)
+![Ludo and Teen Patti strategic thinking illustration with planning notes and calm analysis](../assets/images/strategic-thinking.webp)
 
 ---
 

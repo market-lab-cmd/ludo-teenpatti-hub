@@ -10,7 +10,7 @@ This page looks at common scenario types that experienced players use for practi
 
 ## 🖼️ Scenarios Overview
 
-![Ludo and Teen Patti scenarios illustration with examples and discussion notes](../assets/images/scenarios.png)
+![Ludo and Teen Patti scenarios illustration with examples and discussion notes](../assets/images/scenarios.webp)
 
 ---
 

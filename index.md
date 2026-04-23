@@ -10,7 +10,7 @@ This hub is written from a player-teaching-player angle. The goal is not to sell
 
 ## 🖼️ Site Overview
 
-![Ludo Teen Patti Hub overview illustration with a calm study desk and strategy notes](./assets/images/overview.png)
+![Ludo Teen Patti Hub overview illustration with a calm study desk and strategy notes](./assets/images/overview.webp)
 
 ---
 

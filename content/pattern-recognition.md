@@ -10,7 +10,7 @@ This page explains how pattern recognition works without turning it into superst
 
 ## 🖼️ Pattern Recognition Overview
 
-![Ludo and Teen Patti pattern recognition illustration with repeatable gameplay patterns and notes](../assets/images/pattern-recognition.png)
+![Ludo and Teen Patti pattern recognition illustration with repeatable gameplay patterns and notes](../assets/images/pattern-recognition.webp)
 
 ---
 

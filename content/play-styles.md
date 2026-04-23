@@ -10,7 +10,7 @@ This page looks at play styles from a teaching perspective. The point is not to 
 
 ## 🖼️ Play Styles Overview
 
-![Ludo and Teen Patti play styles illustration in a calm instructional environment](../assets/images/play-styles.png)
+![Ludo and Teen Patti play styles illustration in a calm instructional environment](../assets/images/play-styles.webp)
 
 ---
 
