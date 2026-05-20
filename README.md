@@ -3,7 +3,7 @@
 Educational gameplay documentation project focused on practical learning for Ludo and Teen Patti.
 
 GitHub Pages:
-[https://market-lab-cmd.github.io/ludo-teenpatti-hub/](https://market-lab-cmd.github.io/ludo-teenpatti-hub/)
+[./](./)
 
 ## Pages
 
